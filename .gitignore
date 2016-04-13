@@ -1,0 +1,15 @@
+#build folders
+build
+bin
+
+#gradle folders
+.gradle
+
+#IDEA files / folders
+*.iml
+.idea
+
+#eclipse files
+.classpath
+.project
+.settings
